@@ -1,4 +1,4 @@
-# Wikimedia Analytics Pipeline
+# WikiStream Analytics Pipeline
 
 Este projeto implementa um pipeline de processamento de dados em streaming utilizando dados do **Wikimedia Recent Changes**.
 
