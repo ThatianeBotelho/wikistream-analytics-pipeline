@@ -1,8 +1,32 @@
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Jupyter / notebooks
 .ipynb_checkpoints/
+
+# OS files
 .DS_Store
 Thumbs.db
+
+# Databricks
 *.dbc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and temporary files
 tmp/
 logs/
+*.log
+
+# Local data / generated outputs
+data/
+output/
+outputs/
+checkpoints/
+*.parquet
+*.jsonl
