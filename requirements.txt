@@ -1,2 +1,2 @@
-requests
-pyspark
+requests>=2.31.0
+pyspark>=3.5.0
